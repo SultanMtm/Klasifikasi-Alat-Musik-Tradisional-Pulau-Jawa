@@ -38,6 +38,7 @@ Model klasifikasi dibangun dengan menggunakan arsitektur MobileNetV2, yang merup
 ## Evaluation 
 Evaluasi dilakukan dengan menggunakan metrik akurasi, precision, recall, dan confusion 
 ![Alt text](VisualAcc.png)
+
 Gambar 1. Visualisasi Accuracy dan Loss
 
 
