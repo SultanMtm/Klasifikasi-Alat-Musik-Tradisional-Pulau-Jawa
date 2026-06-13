@@ -25,7 +25,7 @@ Data yang digunakan dalam penelitian ini berupa citra digital dari alat musik tr
 14. Siter 
 15. Kluncing 
 16. Saronen 
-17. Kendang 
+17. Kendang
 Gambar untuk tiap kelas berformat JPG atau PNG dan diperoleh dari berbagai sumber seperti Google Images, dataset publik, dan museum.
 
 ## Data Preparation
